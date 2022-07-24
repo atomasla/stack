@@ -18,13 +18,19 @@
 
 Stack is nothing but a pseudo-project.
 
-Usually, most of the projects are created to solve (or at least try to) a business problem. We choose the technology stack based on the solution approach.
+Usually, most of the projects are created to solve (or at least try to) a business problem.
+We choose the technology stack based on the solution approach.
 
-Stack is the very opposite. First, I've defined a list of interesting/trending technologies and then I try to integrate them all. Hence the pseudo prefix.
+Stack is the very opposite.
+
+First I've defined a list of interesting/trending technologies and tools.
+The next thing is to think about how they might fit together to solve a non-relevant problem.
  
 The main purpose of this weird project is to find out the problems each technology is meant to solve firstly, and then dig into its functionalities.
 
-As you may have noticed, I'm one of those who think there is no better way to learn something than getting dirty, therefore the last step of integrating the learned tool into our little Frankstein. Cool, isn't it?
+I'm betting that you are one of those who think there is no better way to learn something than getting dirty.
+Well, me too!! Therefore the last step of integrating the learned tool into our little Frankstein.
+Cool, isn't it?
 
 
 
@@ -32,7 +38,7 @@ As you may have noticed, I'm one of those who think there is no better way to le
 
 
 
-### Built With
+### The Stack
 
 
 * [![Python][Python]][Python-url]
