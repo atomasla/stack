@@ -28,8 +28,8 @@ The next thing is to think about how they might fit together to solve a non-rele
  
 The main purpose of this weird project is to find out the problems each technology is meant to solve firstly, and then dig into its functionalities.
 
-I'm betting that you are one of those who think there is no better way to learn something than getting dirty.  
-Well, me too!! Therefore the last step of integrating the learned tool into our little Frankenstein.
+I'm betting that you are one of those who think there is no better way to learn or practice something than getting dirty.  
+Well, me too! Hence the integration of each tool into our little Frankenstein.
 
 Cool, isn't it?
 
