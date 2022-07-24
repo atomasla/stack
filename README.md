@@ -1,5 +1,15 @@
 <div id="top"></div>
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/atomasla/stack">
+    <img src="images/stack-logo.jpeg" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">s t a c k</h3>
+</div>
+
 
 
 
@@ -13,7 +23,8 @@ Usually, most of the projects are created to solve (or at least try to) a busine
 Stack is the very opposite. First, I've defined a list of interesting/trending technologies and then I try to integrate them all. Hence the pseudo prefix.
  
 The main purpose of this weird project is to find out the problems each technology is meant to solve firstly, and then dig into its functionalities.
-But as you may have noticed, I'm one of those who think there is no better way to learn something than getting dirty, therefore the last step of integrating the learned tool into our little Frankstein. Cool, isn't it?
+
+As you may have noticed, I'm one of those who think there is no better way to learn something than getting dirty, therefore the last step of integrating the learned tool into our little Frankstein. Cool, isn't it?
 
 
 
@@ -25,21 +36,21 @@ But as you may have noticed, I'm one of those who think there is no better way t
 
 
 * [![Python][Python]][Python-url]
-* [![Linux][Linux]]
-* [![Shell Script][Shell Script]]
-* [![Python][Python]]
-* [![Docker][Docker]]
-* [![Kubernetes][Kubernetes]]
-* [![Git][Git]]
-* [![GitHub][GitHub]]
-* [![GitHub Actions][Github ]Actions]
-* [![Jenkins][Jenkins]]
-* [![Ansible][Ansible]]
-* [![Terraform][Terraform]]
-* [![AWS][AWS]]
-* [![Google Cloud][Google Cloud]]
-* [![Azure][Azure]]
-* [![Prometheus][Prometheus]]
+* ![Linux][Linux]
+* ![Shell Script][Shell Script]
+* ![Python][Python]
+* ![Docker][Docker]
+* ![Kubernetes][Kubernetes]
+* ![Git][Git]
+* ![GitHub][GitHub]
+* ![GitHub Actions][Github Actions]
+* ![Jenkins][Jenkins]
+* ![Ansible][Ansible]
+* ![Terraform][Terraform]
+* ![AWS][AWS]
+* ![Google Cloud][Google Cloud]
+* ![Azure][Azure]
+* ![Prometheus][Prometheus]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
