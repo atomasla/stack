@@ -6,8 +6,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Stack][stack-screenshot]]
-
 Stack is nothing but a pseudo-project.
 
 Usually, most of the projects are created to solve (or at least try to) a business problem. We choose the technology stack based on the solution approach.
@@ -27,6 +25,21 @@ But as you may have noticed, I'm one of those who think there is no better way t
 
 
 * [![Python][Python]][Python-url]
+* [![Linux][Linux]]
+* [![Shell Script][Shell Script]]
+* [![Python][Python]]
+* [![Docker][Docker]]
+* [![Kubernetes][Kubernetes]]
+* [![Git][Git]]
+* [![GitHub][GitHub]]
+* [![GitHub Actions][Github ]Actions]
+* [![Jenkins][Jenkins]]
+* [![Ansible][Ansible]]
+* [![Terraform][Terraform]]
+* [![AWS][AWS]]
+* [![Google Cloud][Google Cloud]]
+* [![Azure][Azure]]
+* [![Prometheus][Prometheus]]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -117,7 +130,7 @@ Project Link: [https://github.com/atomasla/stack](https://github.com/atomasla/st
 
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [Shell Script]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
-[Python]: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org
 [Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
