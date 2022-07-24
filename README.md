@@ -1,5 +1,6 @@
 <div id="top"></div>
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -12,24 +13,24 @@
 
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Stack is nothing but a pseudo-project.
+Stack is a tech-based project.
 
-Usually, most of the projects are created to solve (or at least try to) a business problem.
+Usually, most of the projects are created to solve (or at least try to) a business problem.  
 We choose the technology stack based on the solution approach.
 
 Stack is the very opposite.
 
-First I've defined a list of interesting/trending technologies and tools.
+First a list of interesting/trending technologies and tools is defined.  
 The next thing is to think about how they might fit together to solve a non-relevant problem.
  
 The main purpose of this weird project is to find out the problems each technology is meant to solve firstly, and then dig into its functionalities.
 
-I'm betting that you are one of those who think there is no better way to learn something than getting dirty.
-Well, me too!! Therefore the last step of integrating the learned tool into our little Frankstein.
+I'm betting that you are one of those who think there is no better way to learn something than getting dirty.  
+Well, me too!! Therefore the last step of integrating the learned tool into our little Frankenstein.
+
 Cool, isn't it?
 
 
@@ -38,10 +39,9 @@ Cool, isn't it?
 
 
 
-### The Stack
+## The Stack
 
 
-* [![Python][Python]][Python-url]
 * ![Linux][Linux]
 * ![Shell Script][Shell Script]
 * ![Python][Python]
@@ -67,7 +67,7 @@ Cool, isn't it?
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/atomasla/stack/issues) for a full list of proposed tools. Feel free to propose new ones!!
+See the [open issues][issues-url] for a full list of proposed tools. Feel free to propose new ones!!
 
 [![issues-shield][issues-shield]][issues-url]
 
@@ -80,9 +80,8 @@ See the [open issues](https://github.com/atomasla/stack/issues) for a full list 
 <!-- CONTACT -->
 ## Contact
 
-Adrián Tomás Lafuente - [LinkedIn](https://linkedin.com/in/adrián-tomás-lafuente-6735a6188) - adrit1996@gmail.com
+Adrián Tomás Lafuente - [LinkedIn][linkedin-url] - adrit1996@gmail.com
 
-Project Link: [https://github.com/atomasla/stack](https://github.com/atomasla/stack)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,12 +90,9 @@ Project Link: [https://github.com/atomasla/stack](https://github.com/atomasla/st
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-shield]: https://img.shields.io/github/issues/atomasla/stack.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/atomasla/stack.svg?style=for-the-badge&labelColor=28242c
 [issues-url]: https://github.com/atomasla/stack/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adrián-tomás-lafuente-6735a6188
-[stack-screenshot]: images/stack-screenshot.jpeg
-
 
 
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=28242c
