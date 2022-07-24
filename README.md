@@ -69,8 +69,6 @@ Cool, isn't it?
 
 See the [open issues][issues-url] for a full list of proposed tools. Feel free to propose new ones!!
 
-[![issues-shield][issues-shield]][issues-url]
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -90,10 +88,9 @@ Adrián Tomás Lafuente - [LinkedIn][linkedin-url] - adrit1996@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-shield]: https://img.shields.io/github/issues/atomasla/stack.svg?style=for-the-badge&labelColor=28242c
+[issues-shield]: https://img.shields.io/github/issues/atomasla/stack.svg?style=for-the-badge
 [issues-url]: https://github.com/atomasla/stack/issues
 [linkedin-url]: https://linkedin.com/in/adrián-tomás-lafuente-6735a6188
-
 
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=28242c
 [Shell Script]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=28242c
