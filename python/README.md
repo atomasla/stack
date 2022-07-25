@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/atomasla/stack">
-    <img src="images/stack-logo.jpeg" alt="Logo" width="80" height="80">
+    <img src="../images/stack-logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">s t a c k</h3>
@@ -27,18 +27,3 @@ At the time of writing this README file, the key has been exported to my local u
 So I will treat this as my first prerequisite.
 
 The rest of the code is very intuitive. The requests module offers a simple get method that returns a response object, once parsed into a json, It hasn't been that difficult to get the temperature and the description by indexing it.
-
-
-
-## The Stack 
-
-
-* ![Python][Python]
-
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=28242c
