@@ -23,8 +23,10 @@ We choose the technology stack based on the solution approach.
 
 Stack is the very opposite.
 
-First a list of interesting/trending technologies and tools is defined.  
-The next thing is to think about how they might fit together to solve a non-relevant problem.
+First, a list of interesting/trending technologies and tools is defined.  
+The next thing is to think about how they might fit together to solve a non-relevant problem.  
+Like getting the current weather in Rome for instance...
+As I mentioned before, the main goal is not relevant, we focus on the stack.
  
 The main purpose of this weird project is to find out the problems each technology is meant to solve firstly, and then dig into its functionalities.
 
@@ -33,9 +35,6 @@ Well, me too! Hence the integration of each tool into our little Frankenstein.
 
 Cool, isn't it?
 
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -59,18 +58,12 @@ Cool, isn't it?
 * ![Prometheus][Prometheus]
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues][issues-url] for a full list of proposed tools. Feel free to propose new ones!!
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
